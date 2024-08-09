@@ -2,9 +2,9 @@
 
 The network is an open space where everyone is free to create whatever they want - from fine art, to weird experiments, to whole new ideas - making it the place for culture to take root.
 
-Shape is built on top of Ethereum and is **EVM equivalent**.
+Shape is built on top of Ethereum and is **EVM equivalent**. 
 
-Get Gasback: 80% of sequencer fees go back to contract owners ([learn more](https://docs.shape.network/documentation/building-on-shape/gasback)).
+**Get Gasback** when building on Shape: 80% of sequencer fees go back to contract owners ([learn more](https://docs.shape.network/documentation/building-on-shape/gasback)).
 
 Check out the [documentation](https://docs.shape.network/documentation/introduction).
 
