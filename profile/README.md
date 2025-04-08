@@ -6,7 +6,7 @@ Shape is built on top of Ethereum and is **EVM equivalent**.
 
 **Get Gasback** when building on Shape: 80% of sequencer fees go back to contract owners ([learn more](https://docs.shape.network/documentation/building-on-shape/gasback)).
 
-Check out the [documentation](https://docs.shape.network/documentation/introduction).
+Check out the [documentation](https://docs.shape.network/).
 
 Join us:
 
